@@ -1,3 +1,6 @@
+# Hinweis 
+29.08.2021 : Seit ein paar Tagen tritt ein Geräusch beim Erstellen der Playlist auf. Die Ursache ist mir noch unklar . 
+
 # ESPuino32_complete_PCM5102A
  
 Der Anfang... Ich habe das Projekt Kindermusikbox im Frühjahr 2018 begonnen. Erste Versuche mit einem RaspberryPi habe ich wegen nicht kinderfreundlich schnell verworfen. Dann entdeckte ich eine Lösung für den Arduino, welche aber wegen des dort verwendeten MP3-Players nicht praktikabel war. Nach einigem googlen fand ich den DFPlayerMini und habe damit eine Eigenentwicklung gestartet. Im Spätsommer 2018 war ich soweit dass schon das Wichtigste funktionierte, Gehäuse, Netzteil und Platine mit Arduino usw. selbst geätzt und fertig. Dann entdeckte ich im Herbst 2018 das Projekt Tonuino. Es lief auf meiner Hardware, weil fast gleich, mit kleinen Änderungen sofort. Ich habe dann meine Entwicklung gestoppt weil mit Tonuino schon alles viel besser gelöst war und Dinge die noch auf meiner ToDo-Liste standen dort schon implementiert waren. So ganz zufrieden war ich aber wegen der Restriktionen des DFPlayers nicht und als dann das hervorragende Projekt von [@biologist](https://github.com/biologist79/ESPuino) erschien habe ich mich sofort damit beschäftigt und das auch nie bereut. Damals war noch nicht klar dass die Software mal so umfangreich und mächtig werden würde.
