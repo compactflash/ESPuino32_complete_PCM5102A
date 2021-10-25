@@ -1,5 +1,5 @@
 # Hinweis 
-29.08.2021 : Seit ein paar Tagen tritt ein Geräusch beim Erstellen der Playlist auf. Die Ursache ist mir noch unklar . 
+29.08.2021 : Seit ein paar Tagen tritt ein leises Geräusch beim Erstellen der Playlist auf. Die Ursache ist mir noch unklar . Das Geräusch triit nur im Modus SD_MMC auf , im SPI-Mode ist es ok . 
 
 # ESPuino32_complete_PCM5102A
  
